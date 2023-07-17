@@ -1,7 +1,9 @@
 body {
-    background-color: #faf2e4; 
+    background: #faf2e4 url(images/blackgoose.png) no-repeat center 100px fixed;
+    
     margin: 0 10%;
     font-family: sans-serif;
+    
 }
 header {
     margin-top: 0;
