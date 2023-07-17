@@ -1,8 +1,9 @@
 body {
-    background: #faf2e4 url(images/blackgoose.png) no-repeat center 100px fixed;
     
-    margin: 0 10%;
+    margin: 0 15%;
     font-family: sans-serif;
+    line-height: 175%;
+    background: #faf2e4 url(goose.png) no-repeat center 100px fixed;
     
 }
 header {
