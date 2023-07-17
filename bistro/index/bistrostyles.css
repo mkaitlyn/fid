@@ -3,7 +3,8 @@ body {
     margin: 0 15%;
     font-family: sans-serif;
     line-height: 175%;
-    background: #faf2e4 url(goose.png) no-repeat center 100px fixed;
+    background-color: #faf2e4; 
+    background-image: url(goose.png) no-repeat center 100px fixed;
     
 }
 header {
@@ -11,6 +12,7 @@ header {
     padding: 3em 1em 2em 1em;
     text-align: center;
     background: rgba(225,225,225,.5)
+
 }
 
 h1 {
