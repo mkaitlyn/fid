@@ -3,7 +3,8 @@ body {
     margin: 0 10%;
     font-family: sans-serif;
     background-color: #faf2e4; 
-    
+    font-size: 100%;
+    background: #faf2e4 url(goose.png) no-repeat center 100px fixed;
 }
 header {
     margin-top: 0;
