@@ -1,0 +1,25 @@
+<style>
+body {
+  background-color:#000026;
+  margin: 0 15%;
+  font-family: sans-serif;
+  background: #000026 url(images/galaxy.png) no-repeat center 100px fixed;
+  }
+
+h1 {
+  text-align: center;
+  font-family: serif;
+  font-weight: normal;
+  text-transformation: uppercase;
+  border-bottom: 1px solid #00bfff;
+  margin-top: 30px;
+  font-size: bold 3em;
+  color:#1e90ff
+  
+}
+h2 {
+   color: #1e90ff;
+   font-size; 1em;
+}
+h3 { color:aliceblue;}
+	</style>
